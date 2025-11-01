@@ -16,12 +16,12 @@ const activeRoute = route.path;
       </NavigationMenu.Item>
       <NavigationMenu.Item>
         <NavigationMenu.Link as-child>
-          <RouterLink to="/research">Research</RouterLink>
+          <RouterLink to="/publications">Publications</RouterLink>
         </NavigationMenu.Link>
       </NavigationMenu.Item>
       <NavigationMenu.Item>
         <NavigationMenu.Link as-child>
-          <RouterLink to="/publications">Publications</RouterLink>
+          <RouterLink to="/news">News</RouterLink>
         </NavigationMenu.Link>
       </NavigationMenu.Item>
       <NavigationMenu.Item>

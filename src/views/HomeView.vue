@@ -66,7 +66,7 @@
   </p>
 </template>
 
-<style>
+<style scoped>
 h1 {
   margin-bottom: var(--spacing-lg);
   margin-top: 0;

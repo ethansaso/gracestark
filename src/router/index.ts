@@ -1,7 +1,7 @@
 import AboutView from "@/views/AboutView.vue";
 import HomeView from "@/views/HomeView.vue";
+import NewsView from "@/views/NewsView.vue";
 import PublicationsView from "@/views/PublicationsView.vue";
-import ResearchView from "@/views/ResearchView.vue";
 import {
   createRouter,
   createWebHistory,
@@ -15,9 +15,9 @@ const routes: RouteRecordRaw[] = [
     component: HomeView,
   },
   {
-    path: "/research",
-    name: "Research",
-    component: ResearchView,
+    path: "/news",
+    name: "News",
+    component: NewsView,
   },
   {
     path: "/publications",
