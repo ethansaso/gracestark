@@ -1,0 +1,14 @@
+@import "./components/_index.css";
+@import "./abstracts/_index.css";
+
+body {
+  font-size: var(--font-size-md);
+  margin: 0;
+
+  font-family: 'Lato', sans-serif;
+  color: var(--color-content);
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: var(--color-strong);
+}
