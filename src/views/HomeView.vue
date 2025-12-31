@@ -6,8 +6,8 @@
     Mechanisms
   </h1>
   <p>
-    Grace Stark is a microbiology PhD candidate in the Krasileva Lab at UC
-    Berkeley, where she studies how fungi detect and defend against microbial
+    Grace Stark is a microbiology PhD graduate from the Krasileva Lab at UC
+    Berkeley, where she studied how fungi detect and defend against microbial
     antagonists. Her work probes fungal innate immunity, especially
     bacterial-fungal interactions, to map molecular systems that shape
     cross-kingdom conflicts.
